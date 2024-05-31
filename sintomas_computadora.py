@@ -81,3 +81,6 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = TestSignosApp(root)
     root.mainloop()  # Ejecutar el bucle principal de Tkinter
+
+
+#Commit realizado por Revanngel. Saludos
